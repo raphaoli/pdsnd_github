@@ -4,6 +4,7 @@ import calendar
 import time
 
 # CSV Data Load
+## Files updated from Udacity source
 chicago = pd.read_csv('chicago.csv')
 new_york_city = pd.read_csv('new_york_city.csv')
 washington = pd.read_csv('washington.csv')
